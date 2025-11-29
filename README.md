@@ -1,62 +1,116 @@
+<!-- HERO SECTION -->
 <p align="center">
-  <img src="3D40186C-B336-445C-9BAF-FC261DE31FA4.jpeg" alt="Essex Drone Works Logo" width="300">
+  <img src="IMG_0827.jpeg" width="240" alt="Essex Drone-Works Logo">
 </p>
 
-# **Essex Drone-Works**
+<h1 align="center">🚁 <span style="color:#ffa500;">Essex Drone-Works</span></h1>
 
-Welcome to **Essex Drone-Works** — a professional drone photography and videography service covering a wide range of aerial media:
-
-- Property & Real Estate  
-- Football Matches & Sports  
-- Horse Riding Events  
-- Building & Construction Progress  
-- Before & After Garden, Landscaping, Driveway & Patio Projects  
-- And many other custom aerial requests  
-
-We provide sharp, high-angle photos, smooth cinematic video, and unique perspective shots that help you stand out.
+<p align="center" style="font-size:18px;">
+  <strong>Premium Aerial Photography & Cinematic Drone Footage Across Essex</strong><br>
+  Property • Construction • Sports • Events • Marketing • Before/After
+</p>
 
 ---
 
-## **📸 Featured Aerial Shots**
-
-### **Property Development – Countryside Estate**
-A clean, wide, high-resolution aerial view showcasing multiple new-build homes and stunning surrounding fields.
-
-<img src="99239577-695C-42AE-9484-B50DD1FA9697.jpeg" alt="Countryside Property Drone Shot" width="100%">
+<!-- FULL WIDTH HERO IMAGE -->
+<img src="dji_fly_20250424_174318_504_1745513101009_photo_optimized.jpeg" width="100%" alt="Drone Overview Shot">
 
 ---
 
-### **Before & After Property Highlight**
-A top-down view with selective colour to draw attention to the property and garden, perfect for estate agents or planning projects.
+# 🌟 Who We Are
 
-<img src="09B95B06-750C-4EAF-9082-E3CDEB477DF6.jpeg" alt="Before After Highlight Shot" width="100%">
+At **Essex Drone-Works**, we specialise in capturing **clean, crisp, cinematic aerial visuals** for estate agents, builders, sports clubs, landscapers, and private clients.
 
----
+Our goal is simple:  
+🎯 *Make your project, property, event, or brand look exceptional from above.*
 
-## **✨ Services We Offer**
-
-- High-resolution drone photography  
-- 4K aerial video shots  
-- Cinematic fly-throughs  
-- Event coverage  
-- Social-media-ready content  
-- Building site documentation  
-- Roof & property inspections  
-- Garden/landscaping before-and-after sequences  
-
-If you need a specific angle, perspective, or style — we can create it.
+We deliver:
+- Eye-catching property photos  
+- 4K cinematic flyover videos  
+- Smooth Instagram Reels & TikToks  
+- Before/after construction progress  
+- Land, estate, and roof surveys  
+- Sports & event filming  
 
 ---
 
-## **🌐 Contact**
+# 📸 Featured Work (Your Live Examples)
 
-More coming soon…  
-Website under construction using GitHub & Markdown.  
-Stay tuned for updates!
+### 🖤 **Black & White Highlighted Edge Shot**
+*(Your signature style)*  
+<img src="0A322C94-2C06-4D85-B163-D150F58E9014.jpeg" width="100%" alt="Black and White Highlight Shoot">
+
+---
+
+### 🌿 **Countryside Property With Land**
+<img src="dji_fly_20250424_174318_504_1745513101009_photo_optimized.jpeg" width="100%" alt="Property With Land Drone Shot">
+
+---
+
+### 🚁 **Logo (Brand Identity)**
+<img src="IMG_0827.jpeg" width="220" alt="Logo">
+
+---
+
+# 🚀 Services We Offer
+
+<div align="center">
+
+### 🏡 **Property & Estate Agent Packages**
+✔ High-res stills  
+✔ Cinematic flyovers  
+✔ Social media reels  
+
+### 🛠 **Construction & Before/After**
+✔ Garden & landscaping  
+✔ Driveway/patio  
+✔ Roof updates  
+✔ Timelines & progress reports  
+
+### ⚽ **Sports & Events**
+✔ Football match filming  
+✔ Horse riding events  
+✔ Charity & community events  
+
+### 📹 **Marketing & Business Content**
+✔ Promo videos  
+✔ Instagram/TikTok edits  
+✔ Short-form social content  
+
+### 🧱 **Survey & Inspection**
+✔ Roofs  
+✔ Guttering  
+✔ Hard-to-reach areas  
+
+</div>
+
+---
+
+# ✨ Why Choose Us?
+
+🟧 **Professional Footage** – crisp, clean and cinematic  
+🟧 **Fast Turnaround** – perfect for estate agents  
+🟧 **Fully Insured & Licensed**  
+🟧 **Drone Specialist** – no generic photography  
+🟧 **Affordable Packages**  
+
+---
+
+# 📞 Contact Us
+
+**Essex Drone-Works**  
+📍 Essex, United Kingdom  
+📧 *Add your email*  
+📱 *Add Instagram / Facebook links*  
+
+<p align="center">
+  <a href="#" style="background:#ffa500;color:black;padding:10px 18px;border-radius:6px;text-decoration:none;font-weight:bold;">
+    Book a Drone Shoot
+  </a>
+</p>
 
 ---
 
 <p align="center">
-  <strong>Essex Drone-Works</strong><br>
-  Professional Aerial Photography & Videography
+  © 2025 Essex Drone-Works • Premium Aerial Imaging
 </p>
