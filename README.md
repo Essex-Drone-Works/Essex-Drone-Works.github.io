@@ -1,67 +1,54 @@
-# **Essex Drone Works – Official Website**
+# **Essex Drone Works – Drone Photography Portfolio**
 
-Welcome to the Essex Drone Works website.  
-This site showcases grouped drone photography work such as real estate, construction, sports, landscaping, and events.
+Welcome to the official portfolio site for **Essex Drone Works**.  
+This website showcases a wide range of aerial photography including real estate, construction projects, sports events, landscaping, and more.
 
-The entire site uses a **black background** with subtle **dark-orange accents**, clean buttons, and simple page-to-page navigation.
-
----
-
-## 🔗 **Website Structure**
-
-The site contains multiple pages:
-
-### **1. Home Page** – `index.html`
-- Welcome banner
-- Business logo
-- Navigation buttons to all photo categories
-- About section
-- Contact section (no prices, no contracts)
-
-### **2. Real Estate Gallery** – `real-estate.html`
-- All property photos grouped together
-- Clean gallery layout with clickable fullscreen images
-
-### **3. Construction / Before–After Gallery** – `construction.html`
-- Building projects  
-- Roofs, gardens, patios, extensions  
-- Before & after photos grouped together
-
-### **4. Sports & Events Gallery** – `events.html`
-- Football clubs  
-- Horse events  
-- Charity events  
-- Any crowd-based or sports-based drone footage
-
-### **5. Landscaping & Gardens** – `landscaping.html`
-- Gardens  
-- Driveways  
-- Patios  
-- Outdoor transformations
+The website uses a clean **black theme** with subtle **dark orange highlights**, presenting your work in a sharp, modern layout.
 
 ---
 
-## 🎨 **Theme**
+## **📸 Photo Categories**
 
-- **Background:** #000000 (pure black)  
-- **Accent:** #d96a00 (dark burnt orange)  
-- **Font:** Light grey/white  
-- **Buttons:** Solid black with orange border + hover effect  
-- **No glowing colours**
+This site includes multiple sections, each displaying grouped drone photos:
 
----
+### **🏡 Real Estate**
+Property photos, aerial angles, surrounding areas, rooftops, and estate-agent style shots.
 
-## 📁 **Uploading Your Photos**
+### **🏗 Construction & Before/After**
+Building projects, roof inspections, landscaping transformations, patios, driveways, and gardens.
 
-Once you upload your images, provide the filenames.  
-I will:
+### **⚽ Sports & Events**
+Football clubs, horse events, charity events, community days, and all crowd-based filming.
 
-- Group them into the right pages  
-- Generate full gallery layouts  
-- Add them into the HTML  
-- Make the finished ZIP for GitHub Pages
+### **🌿 Landscaping**
+Garden layouts, driveway lines, patio designs, and general before–after improvements.
 
 ---
 
-## 🧱 **File Structure**
-This is exactly what your GitHub repo should contain:
+## **🔗 Website Pages**
+
+The site is split into simple pages with clickable buttons:
+
+- **Home** – Main introduction and navigation  
+- **Real Estate Gallery**  
+- **Construction / Before–After Gallery**  
+- **Sports & Events Gallery**  
+- **Landscaping & Gardens Gallery**
+
+All pages follow the same dark design for a professional and consistent feel.
+
+---
+
+## **🎨 Design Style**
+
+- **Black background** throughout  
+- **Dark orange accents** (`#d96a00`)  
+- **White/light grey text**  
+- **Simple button navigation**  
+- **Organised photo galleries**  
+
+No glowing effects. No pricing. No contract language.
+
+---
+
+## **📁 Project Structure**
