@@ -1,116 +1,140 @@
-<!-- HERO SECTION -->
+<!-- LOGO -->
 <p align="center">
-  <img src="IMG_0827.jpeg" width="240" alt="Essex Drone-Works Logo">
+  <img src="IMG_0827.jpeg" width="200" alt="Essex Drone-Works Logo">
 </p>
 
-<h1 align="center">🚁 <span style="color:#ffa500;">Essex Drone-Works</span></h1>
+<h1 align="center" style="color:#ff7b00;">🚁 Essex Drone-Works</h1>
 
-<p align="center" style="font-size:18px;">
-  <strong>Premium Aerial Photography & Cinematic Drone Footage Across Essex</strong><br>
-  Property • Construction • Sports • Events • Marketing • Before/After
+<p align="center">
+  <strong style="color:#ccc;">Professional Aerial Photography • Essex</strong><br>
+  <span style="color:#888;">Property • Construction • Sports • Events • Marketing • Before/After</span>
 </p>
 
 ---
 
-<!-- FULL WIDTH HERO IMAGE -->
-<img src="dji_fly_20250424_174318_504_1745513101009_photo_optimized.jpeg" width="100%" alt="Drone Overview Shot">
+# 🕶️ Dark Mode Theme  
+This page is designed using a **dark charcoal layout**, **clean structure**, and **orange highlights** to match your brand.
 
 ---
 
-# 🌟 Who We Are
-
-At **Essex Drone-Works**, we specialise in capturing **clean, crisp, cinematic aerial visuals** for estate agents, builders, sports clubs, landscapers, and private clients.
-
-Our goal is simple:  
-🎯 *Make your project, property, event, or brand look exceptional from above.*
-
-We deliver:
-- Eye-catching property photos  
-- 4K cinematic flyover videos  
-- Smooth Instagram Reels & TikToks  
-- Before/after construction progress  
-- Land, estate, and roof surveys  
-- Sports & event filming  
+# 📸 Featured Hero Image  
+<img src="dji_fly_20250424_174318_504_1745513101009_photo_optimized.jpeg" width="100%" alt="Hero Drone Shot">
 
 ---
 
-# 📸 Featured Work (Your Live Examples)
+# 🏡 Real Estate Photography  
+High-quality aerial shots for estate agents and property developers.
 
-### 🖤 **Black & White Highlighted Edge Shot**
-*(Your signature style)*  
-<img src="0A322C94-2C06-4D85-B163-D150F58E9014.jpeg" width="100%" alt="Black and White Highlight Shoot">
+### Countryside + Property  
+<img src="dji_fly_20250424_173212_480_1745512568246_photo_optimized.jpeg" width="100%">
 
----
+<img src="dji_fly_20241014_195316_298_1728924865621_photo_optimized.JPG" width="100%">
 
-### 🌿 **Countryside Property With Land**
-<img src="dji_fly_20250424_174318_504_1745513101009_photo_optimized.jpeg" width="100%" alt="Property With Land Drone Shot">
+<img src="dji_fly_20250430_190440_512_1746036296790_photo_optimized.jpeg" width="100%">
 
----
+### Estate / Land  
+<img src="dji_fly_20241015_131412_306_1728987321494_photo_optimized.JPG" width="100%">
 
-### 🚁 **Logo (Brand Identity)**
-<img src="IMG_0827.jpeg" width="220" alt="Logo">
+<img src="DJI_0366 copy.JPG" width="100%">
 
----
-
-# 🚀 Services We Offer
-
-<div align="center">
-
-### 🏡 **Property & Estate Agent Packages**
-✔ High-res stills  
-✔ Cinematic flyovers  
-✔ Social media reels  
-
-### 🛠 **Construction & Before/After**
-✔ Garden & landscaping  
-✔ Driveway/patio  
-✔ Roof updates  
-✔ Timelines & progress reports  
-
-### ⚽ **Sports & Events**
-✔ Football match filming  
-✔ Horse riding events  
-✔ Charity & community events  
-
-### 📹 **Marketing & Business Content**
-✔ Promo videos  
-✔ Instagram/TikTok edits  
-✔ Short-form social content  
-
-### 🧱 **Survey & Inspection**
-✔ Roofs  
-✔ Guttering  
-✔ Hard-to-reach areas  
-
-</div>
+<img src="DJI_0355 copy.JPG" width="100%">
 
 ---
 
-# ✨ Why Choose Us?
+# 🔶 Signature Black & White Highlight Shots (Your Style)
 
-🟧 **Professional Footage** – crisp, clean and cinematic  
-🟧 **Fast Turnaround** – perfect for estate agents  
-🟧 **Fully Insured & Licensed**  
-🟧 **Drone Specialist** – no generic photography  
-🟧 **Affordable Packages**  
+### Dramatic Property Focus  
+<img src="0A322C94-2C06-4D85-B163-D150F58E9014.jpeg" width="100%">
+
+### Black & White – Part 2  
+<img src="black and whit pt2 use copy.jpg" width="100%">
 
 ---
 
-# 📞 Contact Us
+# 🛠️ Construction / Before & After  
+Perfect for builders, roofers, landscapers, driveway and patio installers.
 
+<img src="dji_fly_20241013_105004_293_1728805817762_photo_optimized.JPG" width="100%">
+
+<img src="dji_fly_20241014_195316_298_1728924865621_photo_optimized.JPG" width="100%">
+
+<img src="att.D6jrurCQ_TDYvHD04l4fyMwSijKILpTXW0ZOr_imyYc.jpeg" width="100%">
+
+---
+
+# 🏞️ Aerial Scenic & Landscape Photography
+
+<img src="dji_fly_20250424_174010_500_1745513081926_photo_optimized.jpeg" width="100%">
+
+<img src="dji_fly_20250424_173918_496_1745513074709_photo_optimized.jpeg" width="100%">
+
+---
+
+# ⚽ Sports & Events  
+*(You can add more here as you get them)*
+
+<img src="DJI_0454 copy.JPG" width="100%" alt="Football / Event">
+
+---
+
+# 🚀 Services We Offer  
+### <span style="color:#ff7b00;">Property Photography</span>  
+- Aerial stills & cinematic flyovers  
+- Perfect for estate agents  
+
+### <span style="color:#ff7b00;">Construction</span>  
+- Before/after  
+- Timelines  
+- Roofing & inspections  
+
+### <span style="color:#ff7b00;">Sports & Events</span>  
+- Football games  
+- Horse riding  
+- Charity events  
+
+### <span style="color:#ff7b00;">Marketing Content</span>  
+- Instagram Reels  
+- Short-form videos  
+
+---
+
+# 📄 Contract (Copy/Paste for Clients)
+
+### **Drone Photography Agreement**
+
+**Company:** Essex Drone-Works  
+**Client:** __________________________  
+**Location:** ________________________  
+**Date:** ____________________________  
+
+### **Services Included**
+- Aerial photography & video  
+- Editing & delivery  
+- Licensed drone operator  
+- Insured work  
+
+### **Client Responsibilities**
+- Provide safe flying environment  
+- Confirm permissions for property  
+- Weather concerns may affect schedule  
+
+### **Payment**
+Total: £__________  
+Deposit: £________  
+Due On: __________
+
+### **Signatures**
+Client: __________________________  
+Operator: ________________________  
+
+---
+
+# 📞 Contact  
 **Essex Drone-Works**  
-📍 Essex, United Kingdom  
-📧 *Add your email*  
-📱 *Add Instagram / Facebook links*  
+📍 Essex, UK  
+📧 Add your email  
+📱 Add social media links  
 
 <p align="center">
-  <a href="#" style="background:#ffa500;color:black;padding:10px 18px;border-radius:6px;text-decoration:none;font-weight:bold;">
-    Book a Drone Shoot
-  </a>
-</p>
-
----
-
-<p align="center">
-  © 2025 Essex Drone-Works • Premium Aerial Imaging
+  <strong style="color:#ff7b00;">© 2025 Essex Drone-Works — Premium Aerial Imaging</strong>
 </p>
