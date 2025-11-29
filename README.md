@@ -101,7 +101,8 @@ High-quality aerial shots for estate agents and property developers.
 
 <img src="dji_fly_20241014_195316_298_1728924865621_photo_optimized.JPG" width="100%" alt="Estate Property">
 
-<img src="dji_fly_20250430_190440_512_1746036296790_photo_optimized.jpeg" width="100%" alt="Property Aerial">
+<img src="DJI_0454 copy.JPG" width="100%" alt="Football / Event">
+
 
 #### Estate / Land  
 <img src="dji_fly_20241015_131412_306_1728987321494_photo_optimized.JPG" width="100%" alt="Estate and Land">
@@ -140,8 +141,8 @@ Perfect for builders, roofers, landscapers, driveway and patio installers.
 ---
 
 ### ⚽ **Sports & Events**  
-*(You can add more here as you get them)*  
-<img src="DJI_0454 copy.JPG" width="100%" alt="Football / Event">
+
+<img src="dji_fly_20250430_190440_512_1746036296790_photo_optimized.jpeg" width="100%" alt="Property Aerial">
 
 ---
 
