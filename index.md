@@ -30,12 +30,12 @@
 
 🌟 Who We Are
 
-At **Essex Drone-Works**, we capture **clean, crisp, cinematic aerial visuals** for estate agents, builders, sports clubs, landscapers, and private clients. 
+At <B>Essex Drone-Works</B>, we capture **clean, crisp, cinematic aerial visuals** for estate agents, builders, sports clubs, landscapers, and private clients. 
 </p>
 
 <p>
-🎯 **Our goal**: *Make your project, property, event, or brand look exceptional from above.*
-
+🎯 <b></b>Our goal:</b> *Make your project, property, event, or brand look exceptional from above.
+<l>
 We deliver:
 - High-quality aerial property photos  
 - Cinematic 4K flyover videos  
@@ -43,12 +43,12 @@ We deliver:
 - Before/after construction progress  
 - Land, estate, and roof surveys  
 - Sports & event filming
+</l>
 - </p>
 
----
 
-# 🚀 Services We Offer
-
+<h3>🚀 Services We Offer </h3> 
+  
 <div align="center">
 <p style="font-size:18px;color:#ccc;">
 
@@ -146,8 +146,8 @@ Roof inspections, gutters, hard-to-reach areas.
 
 **Essex Drone-Works**  
 📍 Essex, United Kingdom  
-📧 *Add your email*  
-📱 *Add Instagram / Facebook links*
+📧 <b>Essex-Drone-Works@hotmail.com</b> 
+📱 Instagram & Facebook 
 
 <div align="center" style="margin-top:20px;">
   <a href="./contact.md" style="background:#ff7b00;color:white;padding:10px 18px;border-radius:6px;text-decoration:none;font-weight:bold;">
