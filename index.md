@@ -30,8 +30,10 @@
 
 🌟 Who We Are
 
-At **Essex Drone-Works**, we capture **clean, crisp, cinematic aerial visuals** for estate agents, builders, sports clubs, landscapers, and private clients.
+At **Essex Drone-Works**, we capture **clean, crisp, cinematic aerial visuals** for estate agents, builders, sports clubs, landscapers, and private clients. 
+</p>
 
+<p>
 🎯 **Our goal**: *Make your project, property, event, or brand look exceptional from above.*
 
 We deliver:
@@ -40,7 +42,8 @@ We deliver:
 - Smooth social media content  
 - Before/after construction progress  
 - Land, estate, and roof surveys  
-- Sports & event filming  
+- Sports & event filming
+- </p>
 
 ---
 
