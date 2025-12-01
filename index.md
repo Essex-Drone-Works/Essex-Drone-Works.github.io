@@ -1,4 +1,7 @@
 <!-- HERO SECTION -->
+
+<html>
+  <body style="background-color:black;">
 <div align="center">
   <img src="IMG_0827.jpeg" width="240" alt="Essex Drone-Works Logo">
 
@@ -151,3 +154,5 @@ Roof inspections, gutters, hard-to-reach areas.
 <p align="center" style="color:#ff7b00;">
   © 2025 Essex Drone-Works — Premium Aerial Imaging
 </p>
+</body>
+</html>
