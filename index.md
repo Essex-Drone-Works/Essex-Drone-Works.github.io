@@ -47,6 +47,8 @@ We deliver:
 # 🚀 Services We Offer
 
 <div align="center">
+<p style="font-size:18px;color:#ccc;">
+
 
 ### 🏡 Property Photography
 Aerial stills & cinematic flyovers – perfect for estate agents.
@@ -64,7 +66,7 @@ Promo videos, Instagram/TikTok edits, reels.
 Roof inspections, gutters, hard-to-reach areas.
 
 </div>
-
+<div align="center">
 ---
 <\p>
 
