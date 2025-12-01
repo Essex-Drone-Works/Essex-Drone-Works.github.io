@@ -26,9 +26,9 @@
 <!-- FULL WIDTH HERO IMAGE -->
 <img src="dji_fly_20250424_174318_504_1745513101009_photo_optimized.jpeg" width="100%" alt="Drone Overview Shot">
 
----
+<p style="font-size:18px;color:#ccc;">
 
-# 🌟 Who We Are
+🌟 Who We Are
 
 At **Essex Drone-Works**, we capture **clean, crisp, cinematic aerial visuals** for estate agents, builders, sports clubs, landscapers, and private clients.
 
@@ -66,6 +66,7 @@ Roof inspections, gutters, hard-to-reach areas.
 </div>
 
 ---
+<\p>
 
 # 📸 Featured Work
 
