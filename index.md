@@ -34,7 +34,7 @@ At <B>Essex Drone-Works</B>, we capture **clean, crisp, cinematic aerial visuals
 </p>
 
 <p>
-🎯 <b></b>Our goal:</b> *Make your project, property, event, or brand look exceptional from above.
+🎯 <b>Our goal:</b> Make your project, property, event, or brand look exceptional from above.
 <l>
 We deliver:
 - High-quality aerial property photos  
