@@ -74,17 +74,17 @@ Roof inspections, gutters, hard-to-reach areas.
 
  📸 Featured Work
 
----
 
- 🖤 Signature Black & White Highlighted Edge Shots
+
+🖤 Signature Black & White Highlighted Edge Shots
 <img src="0A322C94-2C06-4D85-B163-D150F58E9014.jpeg" width="100%" alt="Black and White Highlighted Shot">
 
----
+
 
  🌿 Countryside Property with Land
 <img src="dji_fly_20250424_174318_504_1745513101009_photo_optimized.jpeg" width="100%" alt="Property With Land Drone Shot">
 
----
+
 
  🚁 Brand Identity & Logo
 <img src="IMG_0827.jpeg" width="220" alt="Brand Logo">
@@ -106,7 +106,7 @@ Roof inspections, gutters, hard-to-reach areas.
   <img src="DJI_0355 copy.JPG" width="32%">
 </div>
 
----
+
 
  🔶 Signature Black & White Highlights
 
@@ -115,7 +115,7 @@ Roof inspections, gutters, hard-to-reach areas.
   <img src="black and whit pt2 use copy.jpg" width="49%">
 </div>
 
----
+
 
  🛠️ Construction / Before & After
 <div style="display:flex; gap:10px;">
