@@ -160,8 +160,6 @@ Essex Drone-Works
 <p align="center" style="color:#ff7b00;">
   © 2025 Essex Drone-Works — Premium Aerial Imaging
 </p>
-</body>
-</html>
 <div class="center">
-  © 2025 Essex Drone-Works — Premium Aerial Imaging
+ 
 </div>
