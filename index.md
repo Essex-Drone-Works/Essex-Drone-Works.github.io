@@ -68,8 +68,7 @@ Promo videos, Instagram/TikTok edits, reels.
 Roof inspections, gutters, hard-to-reach areas.
 
 <div align="center">
----
-</p>
+
 <p style="font-size:18px;color:#ccc;">
 
  📸 Featured Work
