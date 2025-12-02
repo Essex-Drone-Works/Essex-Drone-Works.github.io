@@ -1,87 +1,173 @@
-<!-- HERO SECTION -->
+<style>
+  body {
+    background: #000;
+    color: #ccc;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.6;
+  }
+  h1, h2, h3, h4 {
+    color: #ff7b00;
+    text-align: center;
+  }
+  .center {
+    text-align: center;
+  }
+  .button {
+    background:#ff7b00;
+    color:#000;
+    padding:12px 22px;
+    border-radius:6px;
+    text-decoration:none;
+    font-weight:bold;
+  }
+  .grid2 img, .grid3 img {
+    width: 100%;
+    border-radius: 6px;
+  }
+  .grid2 {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 12px;
+  }
+  .grid3 {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 12px;
+  }
+  .hero-img img {
+    width: 100%;
+    border-radius: 6px;
+  }
+</style>
 
-<html>
-  <body style="background-color:black;">
-<div align="center">
-  <img src="IMG_0827.jpeg" width="240" alt="Essex Drone-Works Logo">
+<div class="center">
+  <img src="IMG_0827.jpeg" width="220" alt="Essex Drone-Works Logo" />
+</div>
 
-  <h1 style="color:#ff7b00; margin-top:10px;">🚁 Essex Drone-Works</h1>
+# 🚁 Essex Drone-Works
+### **Premium Aerial Imaging & Cinematic Drone Footage**
 
-  <p style="font-size:18px;color:#ccc;">
-    <strong>Professional Aerial Photography & Cinematic Drone Footage</strong><br>
-    Property • Construction • Sports • Events • Marketing • Before/After
-  </p>
+<div class="center">
 
-  <!-- NAV BUTTONS -->
-  <p>
-    <a href="./index.md"><kbd>🏠 Home</kbd></a>
-    <a href="./portfolio.md"><kbd>📸 Portfolio</kbd></a>
-    <a href="./about.md"><kbd>🚁 About</kbd></a>
-    <a href="./contact.md"><kbd>📬 Contact</kbd></a>
-  </p>
+Property • Construction • Sports • Events • Marketing • Before/After
+
+**[🏠 Home](./index.md)**  
+**[📸 Portfolio](./portfolio.md)**  
+**[🚁 About](./about.md)**  
+**[📬 Contact](./contact.md)**  
+
 </div>
 
 ---
 
-<!-- FULL WIDTH HERO IMAGE -->
-<img src="dji_fly_20250424_174318_504_1745513101009_photo_optimized.jpeg" width="100%" alt="Drone Overview Shot">
+<div class="hero-img">
+  <img src="dji_fly_20250424_174318_504_1745513101009_photo_optimized.jpeg" alt="Drone Wide Shot" />
+</div>
 
-<p style="font-size:18px;color:#ccc;">
+---
 
-🌟 Who We Are
+# 🌟 Who We Are
 
-At <B>Essex Drone-Works</B>, we capture **clean, crisp, cinematic aerial visuals** for estate agents, builders, sports clubs, landscapers, and private clients. 
+At **Essex Drone-Works**, we specialise in delivering **clean, sharp, cinematic aerial visuals** for estate agents, contractors, sports clubs, landscaping firms and private clients.
 
-<p>
-  <p style="font-size:18px;color:#ccc;">
-🎯 <b>Our goal:</b> Make your project, property, event, or brand look exceptional from above.
-<l>
-We deliver:
-- High-quality aerial property photos  
-- Cinematic 4K flyover videos  
-- Smooth social media content  
-- Before/after construction progress  
-- Land, estate, and roof surveys  
-- Sports & event filming
-</l>
-- </p>
+### 🎯 Our Mission  
+To make every property, project or event look **exceptional from above**.
 
-<p style="font-size:18px;color:#ccc;">
-  <h3>🚀 Services We Offer </h3> 
+### ✔ We Deliver:
+- High-quality aerial property photography  
+- Cinematic 4K flyovers  
+- Social media edits  
+- Before/after construction documentation  
+- Roof & estate surveys  
+- Sports and events filming  
 
-<div align="center">
-<p style="font-size:18px;color:#ccc;">
+---
 
+# 🚀 Our Services
 
-<l>
-   🏡 Property Photography
-Aerial stills & cinematic flyovers – perfect for estate agents.
+### 🏡 Property Photography  
+Premium aerial stills & video — ideal for estate agents and homeowners.
 
-@@ -67,28 +67,28 @@
+### 🛠 Construction Progress / Before & After  
+Driveways, builds, roofing, landscaping — professionally documented.
 
- 🧱 Survey & Inspection
-Roof inspections, gutters, hard-to-reach areas.
+### 🎥 Marketing Content  
+Promo videos, reels, Instagram/TikTok visuals.
 
-</l>
+### ⚽ Sports & Events  
+Football, equestrian, community events, special occasions.
 
-<div align="center">
-<p style="font-size:18px;color:#ccc;">
+### 🧱 Surveys & Inspections  
+Roofs, gutters, hard-to-reach areas.
 
- 📸 Featured Work
+---
 
+# 📸 Featured Work
 
+## 🖤 Signature Black & White Highlight Series  
+<div class="center">
+  <img src="0A322C94-2C06-4D85-B163-D150F58E9014.jpeg" width="80%" />
+</div>
 
-🖤 Signature Black & White Highlighted Edge Shots
-</p>
-<img src="0A322C94-2C06-4D85-B163-D150F58E9014.jpeg" width="100%" alt="Black and White Highlighted Shot">
+---
 
+# 🏡 Real Estate (Property + Land)
 
+### Countryside Property  
+<div class="grid2">
+  <img src="dji_fly_20250424_173212_480_1745512568246_photo_optimized.jpeg" />
+  <img src="DJI_0454 copy.JPG" />
+</div>
 
- 🌿 Countryside Property with Land
-<img src="dji_fly_20250424_174318_504_1745513101009_photo_optimized.jpeg" width="100%" alt="Property With Land Drone Shot">
+### Estates & Land  
+<div class="grid3">
+  <img src="dji_fly_20241015_131412_306_1728987321494_photo_optimized.JPG" />
+  <img src="DJI_0366 copy.JPG" />
+  <img src="DJI_0355 copy.JPG" />
+</div>
 
+---
 
+# 🛠 Construction / Before & After
+<div class="grid2">
+  <img src="dji_fly_20241013_105004_293_1728805817762_photo_optimized.JPG" />
+  <img src="dji_fly_20241014_195316_298_1728924865621_photo_optimized.JPG" />
+</div>
 
+---
+
+# 🌄 Scenic Aerial Landscapes
+<div class="grid2">
+  <img src="dji_fly_20250424_174010_500_1745513081926_photo_optimized.jpeg" />
+  <img src="dji_fly_20250424_173918_496_1745513074709_photo_optimized.jpeg" />
+</div>
+
+---
+
+# ⚽ Sports & Events
+<div class="grid2">
+  <img src="dji_fly_20250430_190440_512_1746036296790_photo_optimized.jpeg" />
+  <img src="att.D6jrurCQ_TDYvHD04l4fyMwSijKILpTXW0ZOr_imyYc.jpeg" />
+</div>
+
+---
+
+# 📞 Contact Us
+
+**Essex Drone-Works**  
+📍 Essex, United Kingdom  
+📧 **Essex-Drone-Works@hotmail.com**  
+📱 Instagram & Facebook  
+
+<div class="center" style="margin-top: 20px;">
+  <a href="./contact.md" class="button">Book a Drone Shoot</a>
+</div>
+
+---
+
+<div class="center">
+  © 2025 Essex Drone-Works — Premium Aerial Imaging
+</div>
  🚁 Brand Identity & Logo
 <img src="IMG_0827.jpeg" width="220" alt="Brand Logo">
 
