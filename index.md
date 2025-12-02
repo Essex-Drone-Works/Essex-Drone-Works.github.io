@@ -70,14 +70,14 @@ Roof inspections, gutters, hard-to-reach areas.
 
 
 <div align="center">
----
-<\p>
+<p style="font-size:18px;color:#ccc;">
 
  📸 Featured Work
 
 
 
 🖤 Signature Black & White Highlighted Edge Shots
+</p>
 <img src="0A322C94-2C06-4D85-B163-D150F58E9014.jpeg" width="100%" alt="Black and White Highlighted Shot">
 
 
