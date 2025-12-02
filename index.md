@@ -1,26 +1,6 @@
 <!-- HERO SECTION -->
 
 <html>
-  <head>
-    <style>
-      .flex-grid {
-        display: flex;
-        flex-wrap: wrap;
-        gap: 20px;
-        justify-content: center;
-      }
-      .flex-grid img {
-        flex: 1 1 45%;
-        max-width: 45%;
-      }
-      @media (max-width: 768px) {
-        .flex-grid img {
-          flex: 1 1 100%;
-          max-width: 100%;
-        }
-      }
-    </style>
-  </head>
   <body style="background-color:black;">
 <div align="center">
   <img src="IMG_0827.jpeg" width="240" alt="Essex Drone-Works Logo">
@@ -110,34 +90,34 @@ Roof inspections, gutters, hard-to-reach areas.
 ---
 
 ## Estate / Land  
-<div class="flex-grid">
-  <img src="dji_fly_20241015_131412_306_1728987321494_photo_optimized.JPG" />
-  <img src="DJI_0366 copy.JPG" />
-  <img src="DJI_0355 copy.JPG" />
+<div style="display:flex; flex-wrap:wrap; gap:20px; justify-content:center;">
+  <img src="dji_fly_20241015_131412_306_1728987321494_photo_optimized.JPG" width="45%" />
+  <img src="DJI_0366 copy.JPG" width="45%" />
+  <img src="DJI_0355 copy.JPG" width="45%" />
 </div>
 
 ---
 
 # 🛠 Construction / Before & After
-<div class="flex-grid">
-  <img src="dji_fly_20241013_105004_293_1728805817762_photo_optimized.JPG" />
-  <img src="dji_fly_20241014_195316_298_1728924865621_photo_optimized.JPG" />
+<div style="display:flex; flex-wrap:wrap; gap:20px; justify-content:center;">
+  <img src="dji_fly_20241013_105004_293_1728805817762_photo_optimized.JPG" width="45%" />
+  <img src="dji_fly_20241014_195316_298_1728924865621_photo_optimized.JPG" width="45%" />
 </div>
 
 ---
 
 # 🌄 Scenic Landscapes
-<div class="flex-grid">
-  <img src="dji_fly_20250424_174010_500_1745513081926_photo_optimized.jpeg" />
-  <img src="dji_fly_20250424_173918_496_1745513074709_photo_optimized.jpeg" />
+<div style="display:flex; flex-wrap:wrap; gap:20px; justify-content:center;">
+  <img src="dji_fly_20250424_174010_500_1745513081926_photo_optimized.jpeg" width="45%" />
+  <img src="dji_fly_20250424_173918_496_1745513074709_photo_optimized.jpeg" width="45%" />
 </div>
 
 ---
 
 # ⚽ Sports & Events
-<div class="flex-grid">
-  <img src="dji_fly_20250430_190440_512_1746036296790_photo_optimized.jpeg" />
-  <img src="att.D6jrurCQ_TDYvHD04l4fyMwSijKILpTXW0ZOr_imyYc.jpeg" />
+<div style="display:flex; flex-wrap:wrap; gap:20px; justify-content:center;">
+  <img src="dji_fly_20250430_190440_512_1746036296790_photo_optimized.jpeg" width="45%" />
+  <img src="att.D6jrurCQ_TDYvHD04l4fyMwSijKILpTXW0ZOr_imyYc.jpeg" width="45%" />
 </div>
 
 ---
@@ -160,6 +140,8 @@ Essex Drone-Works
 <p align="center" style="color:#ff7b00;">
   © 2025 Essex Drone-Works — Premium Aerial Imaging
 </p>
+</body>
+</html>
 <div class="center">
- 
+  © 2025 Essex Drone-Works — Premium Aerial Imaging
 </div>
