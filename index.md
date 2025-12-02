@@ -78,9 +78,8 @@ Roof inspections, gutters, hard-to-reach areas.
 
 🖤 Signature Black & White Highlighted Edge Shots
 </p>
-<img src="0A322C94-2C06-4D85-B163-D150F58E9014.jpeg" width="100%" alt="Black and White Highlighted Shot">
 
-
+<img src="IMG_0827.jpeg" width="220" alt="Brand Logo">
 
  🌿 Countryside Property with Land
 <img src="dji_fly_20250424_174318_504_1745513101009_photo_optimized.jpeg" width="100%" alt="Property With Land Drone Shot">
@@ -88,7 +87,7 @@ Roof inspections, gutters, hard-to-reach areas.
 
 
  🚁 Brand Identity & Logo
-<img src="IMG_0827.jpeg" width="220" alt="Brand Logo">
+<img src="0A322C94-2C06-4D85-B163-D150F58E9014.jpeg" width="100%" alt="Black and White Highlighted Shot">
 
 ---
 
