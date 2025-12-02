@@ -83,12 +83,6 @@ Roof inspections, gutters, hard-to-reach areas.
 
 ---
 
-## 🚁 Brand Identity & Logo
-
-<img src="IMG_0827.jpeg" width="220" alt="Brand Logo">
-
----
-
 ## Estate / Land  
 <div style="display:flex; flex-wrap:wrap; gap:20px; justify-content:center;">
   <img src="dji_fly_20241015_131412_306_1728987321494_photo_optimized.JPG" width="45%" />
