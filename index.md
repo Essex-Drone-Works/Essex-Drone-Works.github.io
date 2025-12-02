@@ -82,7 +82,7 @@ Roof inspections, gutters, hard-to-reach areas.
 
 ---
 
-## Estate / Land  
+   Estate / Land  
 <div style="display:flex; flex-wrap:wrap; gap:20px; justify-content:center;">
   <img src="dji_fly_20241015_131412_306_1728987321494_photo_optimized.JPG" width="45%" />
   <img src="DJI_0366 copy.JPG" width="45%" />
@@ -91,7 +91,7 @@ Roof inspections, gutters, hard-to-reach areas.
 
 ---
 
-# 🛠 Construction / Before & After
+  🛠 Construction / Before & After
 <div style="display:flex; flex-wrap:wrap; gap:20px; justify-content:center;">
   <img src="dji_fly_20241013_105004_293_1728805817762_photo_optimized.JPG" width="45%" />
   <img src="dji_fly_20241014_195316_298_1728924865621_photo_optimized.JPG" width="45%" />
@@ -99,7 +99,7 @@ Roof inspections, gutters, hard-to-reach areas.
 
 ---
 
-# 🌄 Scenic Landscapes
+  🌄 Scenic Landscapes
 <div style="display:flex; flex-wrap:wrap; gap:20px; justify-content:center;">
   <img src="dji_fly_20250424_174010_500_1745513081926_photo_optimized.jpeg" width="45%" />
   <img src="dji_fly_20250424_173918_496_1745513074709_photo_optimized.jpeg" width="45%" />
@@ -107,7 +107,7 @@ Roof inspections, gutters, hard-to-reach areas.
 
 ---
 
-# ⚽ Sports & Events
+  ⚽ Sports & Events
 <div style="display:flex; flex-wrap:wrap; gap:20px; justify-content:center;">
   <img src="dji_fly_20250430_190440_512_1746036296790_photo_optimized.jpeg" width="45%" />
   <img src="att.D6jrurCQ_TDYvHD04l4fyMwSijKILpTXW0ZOr_imyYc.jpeg" width="45%" />
