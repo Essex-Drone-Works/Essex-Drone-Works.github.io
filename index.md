@@ -78,50 +78,46 @@ Roof inspections, gutters, hard-to-reach areas.
 </p>
 <img src="0A322C94-2C06-4D85-B163-D150F58E9014.jpeg" width="100%" alt="Black and White Highlighted Shot">
 
-
 🌿 Countryside Property with Land  
 <img src="dji_fly_20250424_174318_504_1745513101009_photo_optimized.jpeg" width="100%" alt="Property With Land Drone Shot">
 
-
 ---
 
-# 🚁 Brand Identity & Logo
+## 🚁 Brand Identity & Logo
 
-<div style="display:flex; justify-content:center; margin:20px 0;">
-  <img src="IMG_0827.jpeg" width="220" alt="Brand Logo">
-</div>
+<img src="IMG_0827.jpeg" width="220" alt="Brand Logo">
 
 ---
 
 ## Estate / Land  
-<div class="grid3">
-  <img src="dji_fly_20241015_131412_306_1728987321494_photo_optimized.JPG" />
-  <img src="DJI_0366 copy.JPG" />
-  <img src="DJI_0355 copy.JPG" />
+<div style="display:flex; flex-wrap:wrap; gap:20px; justify-content:center;">
+  <img src="dji_fly_20241015_131412_306_1728987321494_photo_optimized.JPG" width="45%" />
+  <img src="DJI_0366 copy.JPG" width="45%" />
+  <img src="DJI_0355 copy.JPG" width="45%" />
 </div>
 
 ---
 
 # 🛠 Construction / Before & After
-<div class="grid2">
-  <img src="dji_fly_20241013_105004_293_1728805817762_photo_optimized.JPG" />
-  <img src="dji_fly_20241014_195316_298_1728924865621_photo_optimized.JPG" />
+<div style="display:flex; flex-wrap:wrap; gap:20px; justify-content:center;">
+  <img src="dji_fly_20241013_105004_293_1728805817762_photo_optimized.JPG" width="45%" />
+  <img src="dji_fly_20241014_195316_298_1728924865621_photo_optimized.JPG" width="45%" />
 </div>
 
 ---
 
 # 🌄 Scenic Landscapes
-<div class="grid2">
-  <img src="dji_fly_20250424_174010_500_1745513081926_photo_optimized.jpeg" />
-  <img src="dji_fly_20250424_173918_496_1745513074709_photo_optimized.jpeg" />
+<div style="display:flex; flex-wrap:wrap; gap:20px; justify-content:center;">
+  <img src="dji_fly_20250424_174010_500_1745513081926_photo_optimized.jpeg" width="45%" />
+  <img src="dji_fly_20250424_173918_496_1745513074709_photo_optimized.jpeg" width="45%" />
 </div>
 
 ---
 
 # ⚽ Sports & Events
-<div class="grid2">
-  <img src="dji_fly_20250430_190440_512_1746036296790_photo_optimized.jpeg" />
-  <img src="att.D6jrurCQ_TDYvHD04l4fyMwSijKILpTXW0ZOr_imyYc.jpeg" />
+<div style="display:flex; flex-wrap:wrap; gap:20px; justify-content:center;">
+  <img src="dji_fly_20250430_190440_512_1746036296790_photo_optimized.jpeg" width="45%" />
+  <img src="att.D6jrurCQ_TDYvHD04l4fyMwSijKILpTXW0ZOr_imyYc.jpeg" width="45%" />
 </div>
 
 ---
