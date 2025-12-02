@@ -45,8 +45,8 @@ We deliver:
 </l>
 - </p>
 
-
-<h3>🚀 Services We Offer </h3> 
+<p style="font-size:18px;color:#ccc;">
+  <h3>🚀 Services We Offer </h3> 
   
 <div align="center">
 <p style="font-size:18px;color:#ccc;">
