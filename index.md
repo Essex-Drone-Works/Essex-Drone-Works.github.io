@@ -142,9 +142,9 @@ Roof inspections, gutters, hard-to-reach areas.
 
 ---
 <p style="font-size:18px;color:#ccc;">
-# 📞 Contact Us
+📞 Contact Us
 
-**Essex Drone-Works**  
+Essex Drone-Works
 📍 Essex, United Kingdom  
 📧 <b>Essex-Drone-Works@hotmail.com</b> 
 📱 Instagram & Facebook 
