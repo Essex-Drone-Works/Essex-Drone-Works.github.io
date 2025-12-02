@@ -64,42 +64,42 @@ Football, horse riding events, charity events.
    🎥 Marketing Content
 Promo videos, Instagram/TikTok edits, reels.
 
-### 🧱 Survey & Inspection
+ 🧱 Survey & Inspection
 Roof inspections, gutters, hard-to-reach areas.
 
-</div>
+
 <div align="center">
 ---
 <\p>
 
-# 📸 Featured Work
+ 📸 Featured Work
 
 ---
 
-## 🖤 Signature Black & White Highlighted Edge Shots
+ 🖤 Signature Black & White Highlighted Edge Shots
 <img src="0A322C94-2C06-4D85-B163-D150F58E9014.jpeg" width="100%" alt="Black and White Highlighted Shot">
 
 ---
 
-## 🌿 Countryside Property with Land
+ 🌿 Countryside Property with Land
 <img src="dji_fly_20250424_174318_504_1745513101009_photo_optimized.jpeg" width="100%" alt="Property With Land Drone Shot">
 
 ---
 
-## 🚁 Brand Identity & Logo
+ 🚁 Brand Identity & Logo
 <img src="IMG_0827.jpeg" width="220" alt="Brand Logo">
 
 ---
 
 # 🏡 Real Estate Photography
 
-### Countryside + Property
+ Countryside + Property
 <div style="display:flex; gap:10px;">
   <img src="dji_fly_20250424_173212_480_1745512568246_photo_optimized.jpeg" width="49%">
   <img src="DJI_0454 copy.JPG" width="49%">
 </div>
 
-### Estate / Land
+ Estate / Land
 <div style="display:flex; gap:10px; margin-top:10px;">
   <img src="dji_fly_20241015_131412_306_1728987321494_photo_optimized.JPG" width="32%">
   <img src="DJI_0366 copy.JPG" width="32%">
@@ -108,7 +108,7 @@ Roof inspections, gutters, hard-to-reach areas.
 
 ---
 
-# 🔶 Signature Black & White Highlights
+ 🔶 Signature Black & White Highlights
 
 <div style="display:flex; gap:10px;">
   <img src="0A322C94-2C06-4D85-B163-D150F58E9014.jpeg" width="49%">
@@ -117,7 +117,7 @@ Roof inspections, gutters, hard-to-reach areas.
 
 ---
 
-# 🛠️ Construction / Before & After
+ 🛠️ Construction / Before & After
 <div style="display:flex; gap:10px;">
   <img src="dji_fly_20241013_105004_293_1728805817762_photo_optimized.JPG" width="49%">
   <img src="dji_fly_20241014_195316_298_1728924865621_photo_optimized.JPG" width="49%">
@@ -125,7 +125,7 @@ Roof inspections, gutters, hard-to-reach areas.
 
 ---
 
-# 🏞️ Aerial Scenic & Landscapes
+ 🏞️ Aerial Scenic & Landscapes
 <div style="display:flex; gap:10px;">
   <img src="dji_fly_20250424_174010_500_1745513081926_photo_optimized.jpeg" width="49%">
   <img src="dji_fly_20250424_173918_496_1745513074709_photo_optimized.jpeg" width="49%">
