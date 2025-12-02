@@ -61,23 +61,32 @@
 
 ---
 
-<div class="center">
-  <img src="IMG_0827.jpeg" width="240" alt="Essex Drone-Works Logo" />
-</div>
 
-# 🚁 Essex Drone-Works
-### **Premium Aerial Imaging & Cinematic Drone Footage**
+<html>
+  <body style="background-color:black;">
+<div align="center">
+  <img src="IMG_0827.jpeg" width="240" alt="Essex Drone-Works Logo">
 
-<div class="center">
-  <a href="./index.md" class="btn">🏠 Home</a>
-  <a href="./portfolio.md" class="btn">📸 Portfolio</a>
-  <a href="./about.md" class="btn">🚁 About</a>
-  <a href="./contact.md" class="btn">📬 Contact</a>
+  <h1 style="color:#ff7b00; margin-top:10px;">🚁 Essex Drone-Works</h1>
+
+  <p style="font-size:18px;color:#ccc;">
+    <strong>Professional Aerial Photography & Cinematic Drone Footage</strong><br>
+    Property • Construction • Sports • Events • Marketing • Before/After
+  </p>
+
+  <!-- NAV BUTTONS -->
+  <p>
+    <a href="./index.md"><kbd>🏠 Home</kbd></a>
+    <a href="./portfolio.md"><kbd>📸 Portfolio</kbd></a>
+    <a href="./about.md"><kbd>🚁 About</kbd></a>
+    <a href="./contact.md"><kbd>📬 Contact</kbd></a>
+  </p>
 </div>
 
 ---
+---
 
-# Hero Image
+
 
 <img src="dji_fly_20250424_174318_504_1745513101009_photo_optimized.jpeg" />
 
