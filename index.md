@@ -1,66 +1,4 @@
-<style>
-  body {
-    background: #000;
-    color: #ccc;
-    font-family: Arial, Helvetica, sans-serif;
-    line-height: 1.6;
-  }
-
-  h1, h2, h3, h4 {
-    color: #ff7b00;
-    text-align: center;
-  }
-
-  .center { text-align: center; }
-
-  /* ORANGE BUTTONS */
-  .btn {
-    background: #ff7b00;
-    color: #000;
-    padding: 12px 22px;
-    border-radius: 8px;
-    margin: 6px;
-    display: inline-block;
-    text-decoration: none;
-    font-weight: bold;
-    transition: 0.2s;
-  }
-  .btn:hover {
-    background: #ffa64d;
-    color: #000;
-  }
-
-  /* IMAGE GRIDS: SIDE BY SIDE */
-  .grid2 {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    gap: 12px;
-    margin-top: 15px;
-  }
-  .grid3 {
-    display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
-    gap: 12px;
-    margin-top: 15px;
-  }
-  img { width: 100%; border-radius: 6px; }
-  
-  /* BIG ORANGE CONTACT BLOCK */
-  .contact-box {
-    background: #ff7b00;
-    color: #000;
-    padding: 25px;
-    border-radius: 8px;
-    text-align: center;
-    margin-top: 30px;
-  }
-  .contact-box b {
-    color: #000;
-  }
-</style>
-
----
-
+<!-- HERO SECTION -->
 
 <html>
   <body style="background-color:black;">
@@ -84,40 +22,75 @@
 </div>
 
 ---
+
+<!-- FULL WIDTH HERO IMAGE -->
+<img src="dji_fly_20250424_174318_504_1745513101009_photo_optimized.jpeg" width="100%" alt="Drone Overview Shot">
+
+<p style="font-size:18px;color:#ccc;">
+
+🌟 Who We Are
+
+At <B>Essex Drone-Works</B>, we capture **clean, crisp, cinematic aerial visuals** for estate agents, builders, sports clubs, landscapers, and private clients. 
+
+<p>
+  <p style="font-size:18px;color:#ccc;">
+🎯 <b>Our goal:</b> Make your project, property, event, or brand look exceptional from above.
+<l>
+We deliver:
+- High-quality aerial property photos  
+- Cinematic 4K flyover videos  
+- Smooth social media content  
+- Before/after construction progress  
+- Land, estate, and roof surveys  
+- Sports & event filming
+</l>
+- </p>
+
+<p style="font-size:18px;color:#ccc;">
+  <h3>🚀 Services We Offer </h3> 
+
+<div align="center">
+<p style="font-size:18px;color:#ccc;">
+
+
+   🏡 Property Photography
+Aerial stills & cinematic flyovers – perfect for estate agents.
+
+    🛠 Construction & Before/After
+Landscaping, driveway installs, roofing, build updates.
+
+   ⚽ Sports & Events
+Football, horse riding events, charity events.
+
+   🎥 Marketing Content
+Promo videos, Instagram/TikTok edits, reels.
+
+ 🧱 Survey & Inspection
+Roof inspections, gutters, hard-to-reach areas.
+
+
+<div align="center">
 ---
+<\p>
+<p style="font-size:18px;color:#ccc;">
+
+ 📸 Featured Work
 
 
 
-<img src="dji_fly_20250424_174318_504_1745513101009_photo_optimized.jpeg" />
+🖤 Signature Black & White Highlighted Edge Shots
+</p>
+<img src="0A322C94-2C06-4D85-B163-D150F58E9014.jpeg" width="100%" alt="Black and White Highlighted Shot">
 
----
 
-# 🌟 Who We Are
 
-At **Essex Drone-Works**, we specialise in **cinematic aerial visuals** for property, construction, sports and events.
+ 🌿 Countryside Property with Land
+<img src="dji_fly_20250424_174318_504_1745513101009_photo_optimized.jpeg" width="100%" alt="Property With Land Drone Shot">
 
-### ✔ What We Deliver:
-- Cinematic 4K flyovers  
-- Aerial property photography  
-- Before/after construction  
-- Roof & estate surveys  
-- Social media videos  
-- Sports + event coverage  
 
----
 
-# 🖤 Signature Black & White Highlight Series
-<img src="0A322C94-2C06-4D85-B163-D150F58E9014.jpeg" />
-
----
-
-# 🏡 Real Estate Portfolio
-
-## Countryside + Property  
-<div class="grid2">
-  <img src="dji_fly_20250424_173212_480_1745512568246_photo_optimized.jpeg" />
-  <img src="DJI_0454 copy.JPG" />
-</div>
+ 🚁 Brand Identity & Logo
+<img src="IMG_0827.jpeg" width="220" alt="Brand Logo">
 
 ---
 
@@ -153,25 +126,27 @@ At **Essex Drone-Works**, we specialise in **cinematic aerial visuals** for prop
 </div>
 
 ---
+<p style="font-size:18px;color:#ccc;">
+📞 Contact Us
 
-# 📞 Contact Us
+Essex Drone-Works
+📍 Essex, United Kingdom  
+📧 <b>Essex-Drone-Works@hotmail.com</b> 
+📱 Instagram & Facebook 
 
-<div class="contact-box">
-  <h2>Book Your Drone Shoot</h2>
-  <p>
-    Essex Drone-Works<br>
-    📍 Essex, United Kingdom<br>
-    📧 <b>Essex-Drone-Works@hotmail.com</b><br>
-    📱 Instagram & Facebook
-  </p>
-
-  <a href="./contact.md" class="btn" style="background:#000;color:#ff7b00;">
-    Contact Form
-  </a>
+<div align="center" style="margin-top:20px;">
+  <a href="./contact.md" style="background:#ff7b00;color:white;padding:10px 18px;border-radius:6px;text-decoration:none;font-weight:bold;">
+    Book a Drone Shoot
+  </a>
 </div>
 
 ---
 
+<p align="center" style="color:#ff7b00;">
+  © 2025 Essex Drone-Works — Premium Aerial Imaging
+</p>
+</body>
+</html>
 <div class="center">
   © 2025 Essex Drone-Works — Premium Aerial Imaging
 </div>
