@@ -28,7 +28,7 @@
 
 <p style="font-size:18px;color:#ccc;">
 
-🌟 Who We Are
+   🌟 Who We Are
 
 At <B>Essex Drone-Works</B>, we capture **clean, crisp, cinematic aerial visuals** for estate agents, builders, sports clubs, landscapers, and private clients. 
 
@@ -92,8 +92,7 @@ Roof inspections, gutters, hard-to-reach areas.
 </div>
 
 ---
-
-  🛠 Construction / Before & After
+🛠 Construction / Before & After
 <div style="display:flex; flex-wrap:wrap; gap:20px; justify-content:center;">
   <img src="dji_fly_20241013_105004_293_1728805817762_photo_optimized.JPG" width="45%" />
   <img src="dji_fly_20241014_195316_298_1728924865621_photo_optimized.JPG" width="45%" />
