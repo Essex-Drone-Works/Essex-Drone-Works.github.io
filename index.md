@@ -52,16 +52,16 @@ We deliver:
 <p style="font-size:18px;color:#ccc;">
 
 
-### 🏡 Property Photography
+   🏡 Property Photography
 Aerial stills & cinematic flyovers – perfect for estate agents.
 
-### 🛠 Construction & Before/After
+    🛠 Construction & Before/After
 Landscaping, driveway installs, roofing, build updates.
 
-### ⚽ Sports & Events
+   ⚽ Sports & Events
 Football, horse riding events, charity events.
 
-### 🎥 Marketing Content
+   🎥 Marketing Content
 Promo videos, Instagram/TikTok edits, reels.
 
 ### 🧱 Survey & Inspection
