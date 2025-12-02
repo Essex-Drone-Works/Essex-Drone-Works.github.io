@@ -107,12 +107,13 @@ Roof inspections, gutters, hard-to-reach areas.
 </div>
 
 ---
+<p style="font-size:18px;color:#ccc;">
 ⚽ Sports & Events
 <div style="display:flex; flex-wrap:wrap; gap:20px; justify-content:center;">
   <img src="dji_fly_20250430_190440_512_1746036296790_photo_optimized.jpeg" width="45%" />
   <img src="att.D6jrurCQ_TDYvHD04l4fyMwSijKILpTXW0ZOr_imyYc.jpeg" width="45%" />
 </div>
-
+</p>
 ---
 <p style="font-size:18px;color:#ccc;">
 📞 Contact Us
