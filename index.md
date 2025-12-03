@@ -99,7 +99,9 @@ Estate / Land
   <img src="dji_fly_20241014_195316_298_1728924865621_photo_optimized.JPG" width="45%" />
 </div>
 </p>
+
 ---
+
 <p style="font-size:18px;color:#ccc;">
 🌄 Scenic Landscapes
 <div style="display:flex; flex-wrap:wrap; gap:20px; justify-content:center;">
@@ -107,6 +109,7 @@ Estate / Land
   <img src="dji_fly_20250424_173918_496_1745513074709_photo_optimized.jpeg" width="45%" />
 </div>
 </p>
+
 ---
 <p style="font-size:18px;color:#ccc;">
 ⚽ Sports & Events
