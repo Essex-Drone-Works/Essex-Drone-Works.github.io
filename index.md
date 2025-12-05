@@ -3,7 +3,7 @@
 <html>
   <body style="background-color:black;">
 <div align="center">
-  <img src="IMG_0827.jpeg" width="240" alt="Essex Drone-Works Logo">
+  <img src="IMG_0827.jpeg" width="260" alt="Essex Drone-Works Logo">
 
   <h1 style="color:#ff7b00; margin-top:10px;">🚁 Essex-Drone-Works</h1>
 
@@ -79,18 +79,18 @@ At <b>Essex Drone-Works</b>, we capture <strong>clean, crisp, cinematic aerial v
 <p style="font-size:18px;color:#ccc;">
 🖤 Signature Black & White Highlighted Edge Shots
 </p>
-<img src="0A322C94-2C06-4D85-B163-D150F58E9014.jpeg" width="100%" alt="Black and White Highlighted Shot">
+<img src="0A322C94-2C06-4D85-B163-D150F58E9014.jpeg" width="80%" alt="Black and White Highlighted Shot">
 
 <p style="font-size:18px;color:#ccc;">
 🌿 Countryside Property with Land  
-<img src="dji_fly_20250424_174318_504_1745513101009_photo_optimized.jpeg" width="100%" alt="Property With Land Drone Shot">
+<img src="dji_fly_20241015_131412_306_1728987321494_photo_optimized.JPG" width="80%" />
 </p>
 
 ---
 <p style="font-size:18px;color:#ccc;">
 Estate / Land  
 <div style="display:flex; flex-wrap:wrap; gap:20px; justify-content:center;">
-  <img src="dji_fly_20241015_131412_306_1728987321494_photo_optimized.JPG" width="45%" />
+  <img src="dji_fly_20250424_174318_504_1745513101009_photo_optimized.jpeg" width="45%" alt="Property With Land Drone Shot">
   <img src="DJI_0366 copy.JPG" width="45%" />
   <img src="DJI_0355 copy.JPG" width="45%" />
 </div>
