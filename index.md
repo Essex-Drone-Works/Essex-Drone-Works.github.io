@@ -27,67 +27,65 @@
 <img src="dji_fly_20250424_174318_504_1745513101009_photo_optimized.jpeg" width="100%" alt="Drone Overview Shot">
 
 <p style="font-size:18px;color:#ccc;">
-
-   🌟 Who We Are
-
-At <B>Essex Drone-Works</B>, we capture **clean, crisp, cinematic aerial visuals** for estate agents, builders, sports clubs, landscapers, and private clients. 
+🌟 Who We Are<br>
+At <b>Essex Drone-Works</b>, we capture <strong>clean, crisp, cinematic aerial visuals</strong> for estate agents, builders, sports clubs, landscapers, and private clients.
+</p>
 
 <p style="font-size:18px;color:#ccc;">
 🎯 <b>Our goal:</b> Make your project, property, event, or brand look exceptional from above.
 </p>
 
-<p style="font-size:18px;color:#ccc;">
-We deliver:
-<ul>
-  <li>High-quality aerial property photos</li>
-  <li>Cinematic 4K flyover videos</li>
-  <li>Smooth social media content</li>
-  <li>Before/after construction progress</li>
-  <li>Land, estate, and roof surveys</li>
-  <li>Sports & event filming</li>
-</ul>
-</p>
+<!-- We Deliver List -->
+<div style="color:white; font-size:18px; margin-left:40px;">
+  <p><b>We deliver:</b></p>
+  <ul>
+    <li>High-quality aerial property photos</li>
+    <li>Cinematic 4K flyover videos</li>
+    <li>Smooth social media content</li>
+    <li>Before/after construction progress</li>
+    <li>Land, estate, and roof surveys</li>
+    <li>Sports & event filming</li>
+  </ul>
+</div>
 
-<p style="font-size:18px;color:#ccc;">
-<h3 align="center">🚀 Services We Offer</h3>
-</p>
+<!-- Services Table -->
+<h3 align="center" style="color:#ff7b00;">🚀 Services We Offer</h3>
 
 <div align="center">
-  <table style="color:#ccc; font-size:18px; border-collapse: collapse; text-align:left;">
+  <table style="color:white; font-size:18px; border-collapse: collapse; text-align:left; width:80%; max-width:700px;">
     <tr>
-      <th style="padding:10px 15px;">🏡 Property Photography</th>
+      <th style="padding:10px 15px; text-align:left; color:#ff7b00;">🏡 Property Photography</th>
       <td style="padding:10px 15px;">Aerial stills & cinematic flyovers – perfect for estate agents.</td>
     </tr>
-    <tr>
-      <th style="padding:10px 15px;">🛠 Construction & Before/After</th>
+    <tr style="background-color:#111;">
+      <th style="padding:10px 15px; text-align:left; color:#ff7b00;">🛠 Construction & Before/After</th>
       <td style="padding:10px 15px;">Landscaping, driveway installs, roofing, build updates.</td>
     </tr>
     <tr>
-      <th style="padding:10px 15px;">⚽ Sports & Events</th>
+      <th style="padding:10px 15px; text-align:left; color:#ff7b00;">⚽ Sports & Events</th>
       <td style="padding:10px 15px;">Football, horse riding events, charity events.</td>
     </tr>
-    <tr>
-      <th style="padding:10px 15px;">🎥 Marketing Content</th>
+    <tr style="background-color:#111;">
+      <th style="padding:10px 15px; text-align:left; color:#ff7b00;">🎥 Marketing Content</th>
       <td style="padding:10px 15px;">Promo videos, Instagram/TikTok edits, reels.</td>
     </tr>
     <tr>
-      <th style="padding:10px 15px;">🧱 Survey & Inspection</th>
+      <th style="padding:10px 15px; text-align:left; color:#ff7b00;">🧱 Survey & Inspection</th>
       <td style="padding:10px 15px;">Roof inspections, gutters, hard-to-reach areas.</td>
     </tr>
   </table>
 </div>
 
 <p style="font-size:18px;color:#ccc;">
-
- 📸 Featured Work
-
 🖤 Signature Black & White Highlighted Edge Shots
 </p>
 <img src="0A322C94-2C06-4D85-B163-D150F58E9014.jpeg" width="100%" alt="Black and White Highlighted Shot">
+
 <p style="font-size:18px;color:#ccc;">
 🌿 Countryside Property with Land  
 <img src="dji_fly_20250424_174318_504_1745513101009_photo_optimized.jpeg" width="100%" alt="Property With Land Drone Shot">
 </p>
+
 ---
 <p style="font-size:18px;color:#ccc;">
 Estate / Land  
@@ -97,6 +95,7 @@ Estate / Land
   <img src="DJI_0355 copy.JPG" width="45%" />
 </div>
 </p>
+
 ---
 <p style="font-size:18px;color:#ccc;">
 🛠 Construction / Before & After
@@ -127,7 +126,7 @@ Estate / Land
 
 ---
 
-<p style="font-size:18px;color:#ccc;">
+<p style="font-size:18px;color:white;">
 📞 Contact Us
 <ul>
   <li>Essex Drone-Works</li>
@@ -138,7 +137,7 @@ Estate / Land
 </p>
 
 <div align="center" style="margin-top:20px;">
-  <a href="./contact.md" style="background:#ff7b00;color:white;padding:10px 18px;border-radius:6px;text-decoration:none;font-weight:bold;">
+  <a href="./contact.md" style="background:black; color:#ff7b00; padding:10px 18px; border-radius:6px; text-decoration:none; font-weight:bold; border:2px solid #ff7b00;">
     Book a Drone Shoot
   </a>
 </div>
