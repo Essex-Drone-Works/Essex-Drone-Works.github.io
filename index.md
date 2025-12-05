@@ -32,7 +32,7 @@ At <b>Essex Drone-Works</b>, we capture <strong>clean, crisp, cinematic aerial v
 </p>
 
 
-<h3 align="center" style="color:#ff7b00; margin-top:10px;"> <b>Our goal:</h3></b>
+<h3 align="center" style="color:#ff7b00; margin-top:10px;"> Our goal: </h3>
   <p align="center" style="font-size:18px;color:#ccc;"> Make your project, property, event, or brand look exceptional from above.
 </p>
 
@@ -137,7 +137,7 @@ Estate / Land
   <li>📍 Essex, United Kingdom</li>
   <li>📧 <b>Essex-Drone-Works@hotmail.com</b></li>
   <li>📱 Instagram & Facebook</li>
-  </p></ul>
+ </ul>
 
 <div align="center" style="margin-top:20px;">
   <a href="./contact.md" style="background:black; color:#ff7b00; padding:10px 18px; border-radius:6px; text-decoration:none; font-weight:bold; border:2px solid #ff7b00;">
