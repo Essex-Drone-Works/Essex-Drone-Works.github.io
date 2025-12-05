@@ -28,13 +28,12 @@
 
 <p style="font-size:18px;color:#ccc;">
 🌟 Who We Are<br>
-At <b>Essex Drone-Works</b>, we capture <strong>clean, crisp, cinematic aerial visuals</strong> for estate agents, builders, sports clubs, landscapers, and private clients.
+At <b>Essex Drone-Works</b>, we capture <strong>clean, crisp, cinematic aerial visuals</strong> for estate agents, builders, sports clubs,charity events, landscapers, and private clients.
 </p>
 
 
-<h3 style="color:#ff7b00; margin-top:10px;"> <b>Our goal:<h3></b> 
-  
-<p style="font-size:18px;color:#ccc;"> Make your project, property, event, or brand look exceptional from above.
+<h3 align="center" style="color:#ff7b00; margin-top:10px;"> <b>Our goal:</h3></b>
+  <p align="center" style="font-size:18px;color:#ccc;"> Make your project, property, event, or brand look exceptional from above.
 </p>
 
 <!-- We Deliver List -->
