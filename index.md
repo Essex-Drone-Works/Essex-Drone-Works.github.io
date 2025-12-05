@@ -49,27 +49,33 @@ We deliver:
 </p>
 
 <p style="font-size:18px;color:#ccc;">
-  <h3>🚀 Services We Offer </h3> 
+<h3 align="center">🚀 Services We Offer</h3>
+</p>
 
 <div align="center">
-<p style="font-size:18px;color:#ccc;">
-
-   🏡 Property Photography  
-Aerial stills & cinematic flyovers – perfect for estate agents.
-
-    🛠 Construction & Before/After  
-Landscaping, driveway installs, roofing, build updates.
-
-   ⚽ Sports & Events  
-Football, horse riding events, charity events.
-
-   🎥 Marketing Content  
-Promo videos, Instagram/TikTok edits, reels.
-
- 🧱 Survey & Inspection  
-Roof inspections, gutters, hard-to-reach areas.
-
-<div align="center">
+  <table style="color:#ccc; font-size:18px; border-collapse: collapse; text-align:left;">
+    <tr>
+      <th style="padding:10px 15px;">🏡 Property Photography</th>
+      <td style="padding:10px 15px;">Aerial stills & cinematic flyovers – perfect for estate agents.</td>
+    </tr>
+    <tr>
+      <th style="padding:10px 15px;">🛠 Construction & Before/After</th>
+      <td style="padding:10px 15px;">Landscaping, driveway installs, roofing, build updates.</td>
+    </tr>
+    <tr>
+      <th style="padding:10px 15px;">⚽ Sports & Events</th>
+      <td style="padding:10px 15px;">Football, horse riding events, charity events.</td>
+    </tr>
+    <tr>
+      <th style="padding:10px 15px;">🎥 Marketing Content</th>
+      <td style="padding:10px 15px;">Promo videos, Instagram/TikTok edits, reels.</td>
+    </tr>
+    <tr>
+      <th style="padding:10px 15px;">🧱 Survey & Inspection</th>
+      <td style="padding:10px 15px;">Roof inspections, gutters, hard-to-reach areas.</td>
+    </tr>
+  </table>
+</div>
 
 <p style="font-size:18px;color:#ccc;">
 
