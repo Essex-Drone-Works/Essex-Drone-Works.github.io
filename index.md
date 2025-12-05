@@ -76,7 +76,7 @@ At <b>Essex Drone-Works</b>, we capture <strong>clean, crisp, cinematic aerial v
   </table>
 </div>
 
-<p style="font-size:18px;color:#ccc;">
+<div align="center"><p style="font-size:18px;color:#ccc;">
 🖤 Signature Black & White Highlighted Edge Shots
 </p>
 <img src="0A322C94-2C06-4D85-B163-D150F58E9014.jpeg" width="80%" alt="Black and White Highlighted Shot">
@@ -85,8 +85,11 @@ At <b>Essex Drone-Works</b>, we capture <strong>clean, crisp, cinematic aerial v
 🌿 Countryside Property with Land  
 <img src="dji_fly_20241015_131412_306_1728987321494_photo_optimized.JPG" width="80%" />
 </p>
+</div>
+
 
 ---
+
 <p style="font-size:18px;color:#ccc;">
 Estate / Land  
 <div style="display:flex; flex-wrap:wrap; gap:20px; justify-content:center;">
