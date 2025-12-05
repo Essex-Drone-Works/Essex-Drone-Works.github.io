@@ -133,10 +133,10 @@ Estate / Land
 <p style="font-size:34px;color:#ff7b00;">
 <b>📞 Contact Us </p> </b>
 <ul style="color:white; font-size:18px;">
-  <li>Essex Drone-Works</li>
-  <li>📍 Essex, United Kingdom</li>
+  <li> <b>Essex Drone-Works</b></li>
+  <li>📍 <b>Essex, United Kingdom</b></li>
   <li>📧 <b>Essex-Drone-Works@hotmail.com</b></li>
-  <li>📱 Instagram & Facebook</li>
+  <li>📱 <b>Instagram & Facebook</b></li>
 </ul>
 
 <div align="center" style="margin-top:20px;">
