@@ -150,6 +150,8 @@ Estate / Land
   </a>
 </div>
 
+---
+
 <p align="center" style="color:#ff7b00;">
-  © 2025 Essex Drone-Works — Premium Aerial Imaging
+© 2025 Essex Drone-Works — Premium Aerial Imaging
 </p>
