@@ -144,6 +144,12 @@ Estate / Land
 
 ---
 
+<div align="center" style="margin-top:20px;">
+  <a href="./contact.md" style="background:#ff7b00;color:white;padding:10px 18px;border-radius:6px;text-decoration:none;font-weight:bold;">
+    Book a Drone Shoot
+  </a>
+</div>
+
 <p align="center" style="color:#ff7b00;">
   © 2025 Essex Drone-Works — Premium Aerial Imaging
 </p>
