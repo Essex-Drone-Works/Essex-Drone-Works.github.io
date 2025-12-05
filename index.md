@@ -131,15 +131,13 @@ Estate / Land
 ---
 
 <p style="font-size:18px;color:#ccc;">
-📞 Contact Us
-<ul>
-  <p style="font-size:18px;color:#ccc;">
-<p style="font-size:18px;color:#ccc;"> <li>Essex Drone-Works</li> </p>
+📞 Contact Us </p>
+<ul style="color:white; font-size:18px;">
+  <li>Essex Drone-Works</li>
   <li>📍 Essex, United Kingdom</li>
   <li>📧 <b>Essex-Drone-Works@hotmail.com</b></li>
   <li>📱 Instagram & Facebook</li>
-    
- </ul> </p>
+</ul>
 
 <div align="center" style="margin-top:20px;">
   <a href="./contact.md" style="background:black; color:#ff7b00; padding:10px 18px; border-radius:6px; text-decoration:none; font-weight:bold; border:2px solid #ff7b00;">
@@ -154,7 +152,9 @@ Estate / Land
     Book a Drone Shoot
   </a>
 </div>
+
 ---
+
 <p align="center" style="color:#ff7b00;">
 © 2025 Essex Drone-Works — Premium Aerial Imaging
 </p>
