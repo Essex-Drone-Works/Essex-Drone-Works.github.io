@@ -5,7 +5,7 @@
 <div align="center">
   <img src="IMG_0827.jpeg" width="240" alt="Essex Drone-Works Logo">
 
-  <h1 style="color:#ff7b00; margin-top:10px;">🚁 Essex Drone-Works</h1>
+  <h1 style="color:#ff7b00; margin-top:10px;">🚁 Essex-Drone-Works</h1>
 
   <p style="font-size:18px;color:#ccc;">
     <strong>Professional Aerial Photography & Cinematic Drone Footage</strong><br>
