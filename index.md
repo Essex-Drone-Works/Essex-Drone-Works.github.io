@@ -126,7 +126,7 @@ Estate / Land
 
 ---
 
-<p style="font-size:18px;color:white;">
+<p style="font-size:18px;color:#ccc;">
 📞 Contact Us
 <ul>
   <li>Essex Drone-Works</li>
