@@ -136,8 +136,7 @@ Estate / Land
   <li>📍 Essex, United Kingdom</li>
   <li>📧 <b>Essex-Drone-Works@hotmail.com</b></li>
   <li>📱 Instagram & Facebook</li>
-</ul>
-</p>
+  </p></ul>
 
 <div align="center" style="margin-top:20px;">
   <a href="./contact.md" style="background:black; color:#ff7b00; padding:10px 18px; border-radius:6px; text-decoration:none; font-weight:bold; border:2px solid #ff7b00;">
