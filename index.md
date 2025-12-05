@@ -53,23 +53,23 @@ At <b>Essex Drone-Works</b>, we capture <strong>clean, crisp, cinematic aerial v
 
 <div align="center">
   <table style="color:white; font-size:18px; border-collapse: collapse; text-align:left; width:80%; max-width:700px;">
-    <tr>
+    <tr style="background-color:#222;">
       <th style="padding:10px 15px; text-align:left; color:#ff7b00;">🏡 Property Photography</th>
       <td style="padding:10px 15px;">Aerial stills & cinematic flyovers – perfect for estate agents.</td>
     </tr>
-    <tr style="background-color:#111;">
+    <tr style="background-color:#333;">
       <th style="padding:10px 15px; text-align:left; color:#ff7b00;">🛠 Construction & Before/After</th>
       <td style="padding:10px 15px;">Landscaping, driveway installs, roofing, build updates.</td>
     </tr>
-    <tr>
+    <tr style="background-color:#222;">
       <th style="padding:10px 15px; text-align:left; color:#ff7b00;">⚽ Sports & Events</th>
       <td style="padding:10px 15px;">Football, horse riding events, charity events.</td>
     </tr>
-    <tr style="background-color:#111;">
+    <tr style="background-color:#333;">
       <th style="padding:10px 15px; text-align:left; color:#ff7b00;">🎥 Marketing Content</th>
       <td style="padding:10px 15px;">Promo videos, Instagram/TikTok edits, reels.</td>
     </tr>
-    <tr>
+    <tr style="background-color:#222;">
       <th style="padding:10px 15px; text-align:left; color:#ff7b00;">🧱 Survey & Inspection</th>
       <td style="padding:10px 15px;">Roof inspections, gutters, hard-to-reach areas.</td>
     </tr>
