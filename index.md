@@ -148,7 +148,7 @@ Estate / Land
 ---
 
 <div align="center" style="margin-top:20px;">
-  <a href="./contact.md" style="background:#ff7b00;color:white;padding:10px 18px;border-radius:6px;text-decoration:none;font-weight:bold;">
+  <a href="./contact.md" style="background:#ff7b00;color:black;padding:10px 18px;border-radius:6px;text-decoration:none;font-weight:bold;">
     Book a Drone Shoot
   </a>
 </div>
