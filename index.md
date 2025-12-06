@@ -26,8 +26,8 @@
 <!-- FULL WIDTH HERO IMAGE -->
 <img src="dji_fly_20250424_174318_504_1745513101009_photo_optimized.jpeg" width="100%" alt="Drone Overview Shot">
 
-<p style="font-size:18px;color:#ccc;">
-<h3 align="center" style="color:#ff7b00; margin-top:10px;"> 🌟 Who We Are<br> </h3>
+
+<h3 align="center" style="color:#ff7b00; margin-top:10px;"> <p style="font-size:18px;color:#ccc;"> 🌟 Who We Are<br> </h3>
 At <b>Essex Drone-Works</b>, we capture <strong>clean, crisp, cinematic aerial visuals</strong> for estate agents, builders, sports clubs,charity events, landscapers, and private clients.
 </p>
 
