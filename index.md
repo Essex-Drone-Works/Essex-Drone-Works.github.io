@@ -21,7 +21,7 @@
   </p>
 </div>
 
----
+<br/>
 
 <!-- FULL WIDTH HERO IMAGE -->
 <img src="dji_fly_20250424_174318_504_1745513101009_photo_optimized.jpeg" width="100%" alt="Drone Overview Shot">
@@ -109,7 +109,7 @@ Estate / Land
 </div>
 </p>
 
----
+<br/>
 
 <p style="font-size:18px;color:#ccc;">
 🌿 Countryside Property with Land
@@ -140,12 +140,13 @@ Estate / Land
   <li><b>📱 Instagram & Facebook </b></li>
   <li>📧 <b>Essex-Drone-Works@hotmail.com</b></li>
 
-  ---
+<br/>
 
 <div align="middle">
   <img src="IMG_0827.jpeg" width="120" alt="Essex Drone-Works Logo">
 </div>
----
+
+<br/>
 
 <div align="center" style="margin-top:20px;">
   <a href="./contact.md" style="background:black; color:#ff7b00; padding:10px 18px; border-radius:6px; text-decoration:none; font-weight:bold; border:2px solid #ff7b00;">
