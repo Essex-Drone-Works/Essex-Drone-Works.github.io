@@ -152,7 +152,7 @@ Estate / Land
 ---
 
 <div align="center">
-  <img src="IMG_0827.jpeg" width="260" alt="Essex Drone-Works Logo">
+  <img src="IMG_0827.jpeg" width="90" alt="Essex Drone-Works Logo">
 
 ---
 
@@ -162,6 +162,7 @@ Estate / Land
   </a>
 </div>
 
+---
 
 <p align="center" style="color:#ff7b00;">
 © 2025 Essex Drone-Works — Premium Aerial Imaging
