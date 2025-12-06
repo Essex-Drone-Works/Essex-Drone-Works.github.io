@@ -144,7 +144,7 @@ Estate / Land
 
 <div align="middle">
   <img src="IMG_0827.jpeg" width="120" alt="Essex Drone-Works Logo">
-
+</div>
 ---
 
 <div align="center" style="margin-top:20px;">
