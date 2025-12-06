@@ -141,11 +141,18 @@ Estate / Land
   <li>📧 <b>Essex-Drone-Works@hotmail.com</b></li>
 </ul>
 
+---
+
 <div align="center" style="margin-top:20px;">
   <a href="./contact.md" style="background:black; color:#ff7b00; padding:10px 18px; border-radius:6px; text-decoration:none; font-weight:bold; border:2px solid #ff7b00;">
     Book a Drone Shoot
   </a>
 </div>
+
+---
+
+<div align="center">
+  <img src="IMG_0827.jpeg" width="260" alt="Essex Drone-Works Logo">
 
 ---
 
@@ -155,7 +162,6 @@ Estate / Land
   </a>
 </div>
 
----
 
 <p align="center" style="color:#ff7b00;">
 © 2025 Essex Drone-Works — Premium Aerial Imaging
