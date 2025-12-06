@@ -134,7 +134,7 @@ Estate / Land
 <p align="center" style="font-size:34px;color:#ff7b00;">
 <b>📞 Contact Us </b>
 
-  <p align="center" style="font-size:18px;color:#ccc;" style="color:white; font-size:18px;">
+  <p align="center" style="color:white; font-size:18px;" style="font-size:18px;color:#ccc;">
   <li> <b>Essex Drone-Works</b></li>
   <li> 📍 <b>Essex, United Kingdom </b></li>
   <li><b>📱 Instagram & Facebook </b></li>
