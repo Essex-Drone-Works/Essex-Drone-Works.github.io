@@ -140,6 +140,8 @@ Estate / Land
   <li><b>📱 Instagram & Facebook </b></li>
   <li>📧 <b>Essex-Drone-Works@hotmail.com</b></li>
 
+<div align="middle">
+  <img src="IMG_0827.jpeg" width="120" alt="Essex Drone-Works Logo">
 
 ---
 
