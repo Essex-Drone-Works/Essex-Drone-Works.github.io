@@ -50,7 +50,7 @@ body {
 
 /*header section*/
 .hero_area {
-  height: 80vh;
+  height: 120vh;
   position: relative;
   background-image: url(../images/LogoE.png);
   background-size: cover;
@@ -71,8 +71,8 @@ body {
   position: absolute;
   top: 0;
   left: 0;
-  width: 25%;
-  height: 80vh;
+  width: 40%;
+  height: 100vh;
   display: block;
   margin: 0 auto;
 }
