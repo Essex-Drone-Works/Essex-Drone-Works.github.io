@@ -63,15 +63,15 @@ body {
   -webkit-box-direction: normal;
       -ms-flex-direction: column;
           flex-direction: column;
-  -webkit-box-shadow: 0 2px 15px 0 rgba(0, 0, 0, 0.2);
-          box-shadow: 0 2px 15px 0 rgba(0, 0, 0, 0.2);
+  -webkit-box-shadow: 0 3px 20px 0 rgba(0, 0, 0, 0.2);
+          box-shadow: 0 3px 20px 0 rgba(0, 0, 0, 0.2);
 }
 
 .hero_area .slick_main {
   position: absolute;
   top: 0;
   left: 0;
-  width: 40%;
+  width: 60%;
   height: 100vh;
   display: block;
   margin: 0 auto;
@@ -80,8 +80,8 @@ body {
 .hero_area .slick_main .main-img-box {
   background-size: cover;
   background-position: center;
-  height: 120vh;
-  width: 120%;
+  height: 100vh;
+  width: 150%;
 }
 
 .hero_area .slick_main .main-img-box.b1 {
