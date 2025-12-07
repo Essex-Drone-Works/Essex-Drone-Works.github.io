@@ -50,7 +50,7 @@ body {
 
 /*header section*/
 .hero_area {
-  height: 100vh;
+  height: 50vh;
   position: relative;
   background-image: url(../images/LogoE.png);
   background-size: cover;
@@ -71,8 +71,8 @@ body {
   position: absolute;
   top: 0;
   left: 0;
-  width: 33%;
-  height: 100vh;
+  width: 12%;
+  height: 50vh;
   display: block;
   margin: 0 auto;
 }
@@ -89,7 +89,7 @@ body {
 }
 
 .hero_area .slick_main .main-img-box.b2 {
-  background-image: url(../images/footballdown.jpeg);
+  background-image: url(../images/blackandwhite1.jpg);
 }
 
 .hero_area .slick_main .main-img-box.b3 {
