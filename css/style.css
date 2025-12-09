@@ -80,8 +80,8 @@ body {
 .hero_area .slick_main .main-img-box {
   background-size: cover;
   background-position: center;
-  height: 100vh;
-  width: 100%;
+  height: 98vh;
+  width: 70%;
 }
 
 .hero_area .slick_main .main-img-box.b1 {
