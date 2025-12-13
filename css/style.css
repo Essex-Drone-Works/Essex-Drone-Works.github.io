@@ -636,8 +636,8 @@ a:focus {
 }
 
 .quality_section .quality_container .detail-box .img-box {
-  width: 75px;
-  height: 95px;
+  width: 65px;
+  height: 100px;
   margin-right: 15px;
   display: -webkit-box;
   display: -ms-flexbox;
