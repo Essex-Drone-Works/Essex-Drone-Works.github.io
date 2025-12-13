@@ -52,7 +52,7 @@ body {
 .hero_area {
   height: 100vh;
   position: relative;
-  background-image: url(../images/LogoE.png);
+  background-image: url(../images/Water.JPG);
   background-size: cover;
   background-position: right;
   background-repeat: no-repeat;
@@ -134,7 +134,7 @@ body {
 
 .custom_nav-container.navbar-expand-lg .navbar-nav .nav-item.active .nav-link, .custom_nav-container.navbar-expand-lg .navbar-nav .nav-item:hover .nav-link {
   background-color: #f0b016;
-  color: #ffffff;
+  color: #000000;
 }
 
 a,
@@ -534,7 +534,7 @@ a:focus {
   padding: 8px 35px;
   background-color: #f0b016;
   border: 1px solid #f0b016;
-  color: #ffffff;
+  color: #000000;
   border-radius: 5px;
   margin-top: 35px;
 }
@@ -596,7 +596,7 @@ a:focus {
   -webkit-transform: translate(-50%, -50%);
           transform: translate(-50%, -50%);
   background-color: rgba(232, 173, 34, 0.9);
-  border: 5px solid #ffffff;
+  border: 5px solid #000000;
 }
 
 .portfolio_section .portfolio_container .box .link-box a {
@@ -605,7 +605,7 @@ a:focus {
 }
 
 .portfolio_section .portfolio_container .box .link-box h6 {
-  color: #ffffff;
+  color: #000000;
 }
 
 .portfolio_section .portfolio_container .box:hover .link-box {
