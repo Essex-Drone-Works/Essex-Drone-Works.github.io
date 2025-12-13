@@ -1,5 +1,5 @@
-<!DOCTYPE htm>
-<htm>
+<!DOCTYPE html>
+<html>
 
 <head>
   <!-- Basic -->
@@ -402,3 +402,4 @@
 
 
 </html>
+
